@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on AKS Terraform
+- 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning Java Algorithms
 
 - 📫 How to reach me: rjdkolb/@/gmail.com 
